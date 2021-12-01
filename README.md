@@ -18,4 +18,4 @@
 
 ![Kimyoungyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungyin&show_icons=true&theme=react)
 
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mafa1234)](https://solved.ac/mafa1234) -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mafa1234)](https://solved.ac/mafa1234)
