@@ -19,3 +19,5 @@
 ![Kimyoungyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungyin&show_icons=true&theme=react)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mafa1234)](https://solved.ac/mafa1234)
+
+<strong>훈련소 2023.07.20 ~ 2023.08.10(커밋불가)</strong>
