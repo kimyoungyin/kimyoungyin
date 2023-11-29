@@ -42,11 +42,15 @@
 ## Algorithm
 ![Kimyoungyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungyin&show_icons=true&theme=react)
 
+## Stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mafa1234)](https://solved.ac/mafa1234)
 
-<strong>훈련소 2023.07.20 ~ 2023.08.10(커밋불가)</strong>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungyin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 프로젝트 배포 현황(최신순)
+<strong>훈련소 2023.07.20 ~ 2023.08.10(커밋불가)</strong>
+***
+
+## 주요 프로젝트 배포 현황(최신순)
 > 인스타그램 클론 배포 사이트는 기존 페이지와 유사하여 사기성 의심 문구가 뜨므로
 > 
 >  클릭 순서: 링크 -> '세부정보' -> '이 안전하지 않은 사이트'
