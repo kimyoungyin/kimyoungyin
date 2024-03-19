@@ -48,6 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungyin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong>훈련소 2023.07.20 ~ 2023.08.10(커밋불가)</strong>
+
 <strong>일본여행 2024.03.04 ~ 2024.03.08(커밋불가)</strong>
 ***
 
