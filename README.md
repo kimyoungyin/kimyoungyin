@@ -57,7 +57,8 @@
 > 
 >  클릭 순서: 링크 -> '세부정보' -> '이 안전하지 않은 사이트'
 >
-> 로 접속하시길 바랍니다. 진짜 이상한 페이지 아님 
+> 로 접속하시길 바랍니다. 진짜 이상한 페이지 아님
+- [승룡이네집 도서 검색 시스템-풀스택](https://seongryung.vercel.app/)
 - [인스타그램 클론: 협업4-frontend](ec2-52-79-71-191.ap-northeast-2.compute.amazonaws.com)
 - [yyChoice: 개인-풀스택(frontend, backend, database 등)](https://yychoice.netlify.app/)
 - [노마드코더 커뮤니티 클론: 협업2-frontend](https://nomad-coders-community-clone.netlify.app/)
