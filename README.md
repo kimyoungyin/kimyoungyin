@@ -13,11 +13,9 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 ## Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## ORM
@@ -46,20 +44,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mafa1234)](https://solved.ac/mafa1234)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungyin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<strong>훈련소 2023.07.20 ~ 2023.08.10(커밋불가)</strong>
-
-<strong>일본여행 2024.03.04 ~ 2024.03.08(커밋불가)</strong>
 ***
 
-## 주요 프로젝트 배포 현황(최신순)
-> 인스타그램 클론 배포 사이트는 기존 페이지와 유사하여 사기성 의심 문구가 뜨므로
-> 
->  클릭 순서: 링크 -> '세부정보' -> '이 안전하지 않은 사이트'
->
-> 로 접속하시길 바랍니다. 진짜 이상한 페이지 아님
-- [승룡이네집 도서 검색 시스템-풀스택](https://seongryung.vercel.app/)
-- [인스타그램 클론: 협업4-frontend](ec2-52-79-71-191.ap-northeast-2.compute.amazonaws.com)
-- [yyChoice: 개인-풀스택(frontend, backend, database 등)](https://yychoice.netlify.app/)
-- [노마드코더 커뮤니티 클론: 협업2-frontend](https://nomad-coders-community-clone.netlify.app/)
 
