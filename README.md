@@ -37,13 +37,8 @@
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 
-## Algorithm
-![Kimyoungyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungyin&show_icons=true&theme=react)
-
 ## Stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mafa1234)](https://solved.ac/mafa1234)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungyin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-***
 
 
